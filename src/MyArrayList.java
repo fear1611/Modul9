@@ -1,3 +1,4 @@
+
 public class MyArrayList<E> {
     private Object[] array;
     private int size;
